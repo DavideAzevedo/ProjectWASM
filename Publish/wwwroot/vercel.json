@@ -1,6 +1,5 @@
 {
   "version": 2,
-  "public": "./wwwroot",
   "headers": [
     {
       "source": "/_framework/(.*\\.wasm)",
