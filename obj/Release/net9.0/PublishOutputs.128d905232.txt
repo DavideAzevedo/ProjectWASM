@@ -1,1 +1,3 @@
+C:\projects\web_test_vercel\ProjWASM\bin\Release\net9.0\publish\publish\wwwroot\vercel.json
+C:\projects\web_test_vercel\ProjWASM\bin\Release\net9.0\publish\publish/wwwroot/vercel.json
 C:\projects\web_test_vercel\ProjWASM\bin\Release\net9.0\publish\web.config
