@@ -1,5 +1,6 @@
 {
   "version": 2,
+  "public": "./wwwroot",
   "headers": [
     {
       "source": "/_framework/(.*\\.wasm)",
@@ -32,7 +33,9 @@
     {
       "source": "/:path*",
       "destination": "/index.html"
-    }
+    },
+    { "source": "/_framework/(.*)", "destination": "/_framework/$1" },
+    { "source": "/(.*)", "destination": "/index.html" }
   ],
   "cleanUrls": true
 }
