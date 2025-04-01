@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjWASM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6553fa47d1a501e4740db102e9a5be82cf172d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1d5d44c32cae6677aadaac592c703f46322e3f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjWASM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjWASM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

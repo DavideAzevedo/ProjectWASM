@@ -1076,10 +1076,10 @@ C:\projects\web_test_vercel\ProjWASM\obj\Release\net9.0\ProjWASM.pdb
 C:\projects\web_test_vercel\ProjWASM\obj\Release\net9.0\ref\ProjWASM.dll
 C:\projects\web_test_vercel\ProjWASM\bin\Release\net9.0\publish\wwwroot\vercel.json
 C:\projects\web_test_vercel\ProjWASM\obj\Release\net9.0\ProjWASM.sourcelink.json
-C:\projects\web_test_vercel\ProjWASM\bin\Release\net9.0\wwwroot\_framework\ProjWASM.b9on8j6qj1.pdb
-C:\projects\web_test_vercel\ProjWASM\bin\Release\net9.0\wwwroot\_framework\ProjWASM.wx47j8exkd.wasm
-C:\projects\web_test_vercel\ProjWASM\bin\Release\net9.0\wwwroot\_framework\ProjWASM.wx47j8exkd.wasm.gz
-C:\projects\web_test_vercel\ProjWASM\bin\Release\net9.0\wwwroot\_framework\ProjWASM.b9on8j6qj1.pdb.gz
-C:\projects\web_test_vercel\ProjWASM\obj\Release\net9.0\compressed\6kd06sod3k-wx47j8exkd.gz
-C:\projects\web_test_vercel\ProjWASM\obj\Release\net9.0\compressed\ufg81u7nsy-b9on8j6qj1.gz
-C:\projects\web_test_vercel\ProjWASM\obj\Release\net9.0\compressed\lk86fu1plj-z57t6t4t2c.gz
+C:\projects\web_test_vercel\ProjWASM\bin\Release\net9.0\wwwroot\_framework\ProjWASM.u2nj1jni2f.pdb
+C:\projects\web_test_vercel\ProjWASM\bin\Release\net9.0\wwwroot\_framework\ProjWASM.7un3cdaacw.wasm
+C:\projects\web_test_vercel\ProjWASM\bin\Release\net9.0\wwwroot\_framework\ProjWASM.7un3cdaacw.wasm.gz
+C:\projects\web_test_vercel\ProjWASM\bin\Release\net9.0\wwwroot\_framework\ProjWASM.u2nj1jni2f.pdb.gz
+C:\projects\web_test_vercel\ProjWASM\obj\Release\net9.0\compressed\6kd06sod3k-7un3cdaacw.gz
+C:\projects\web_test_vercel\ProjWASM\obj\Release\net9.0\compressed\ufg81u7nsy-u2nj1jni2f.gz
+C:\projects\web_test_vercel\ProjWASM\obj\Release\net9.0\compressed\lk86fu1plj-qktv351mer.gz

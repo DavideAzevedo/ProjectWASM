@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7SFp5DUVE2tGvZvK+v9Tg65Svh12nTjlm1QhEGOuJvE=",
+  "Hash": "oUsyLgDPUGNFfLOGjDzU/eusYkobIHcs5N+MxcQsADY=",
   "Source": "ProjWASM",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "z57t6t4t2c",
-      "Integrity": "eVwBSsm0Hcfvpfl3tlbawE6Mp/jLhQvPkHRSQxjbil4=",
+      "Fingerprint": "qktv351mer",
+      "Integrity": "hrE0VGOqAEuu3AIg0oaJVwrPTSXUOMxbUMjNr0+dY+E=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Release\\net9.0\\blazor.boot.json"
@@ -871,8 +871,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "b9on8j6qj1",
-      "Integrity": "cRE0yY/qHM/AoFunyZd14ZcGsG661vq1gbiBwZLKQgU=",
+      "Fingerprint": "u2nj1jni2f",
+      "Integrity": "akelBC+k1CWzgSQ5hxhBenKjlyctYemnGi9XebLf6tk=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Release\\net9.0\\ProjWASM.pdb"
@@ -892,8 +892,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "wx47j8exkd",
-      "Integrity": "PLjt1Hfgd9v+JO4kLPL6IVjkBjTLVuRph6ZPH5LdqF8=",
+      "Fingerprint": "7un3cdaacw",
+      "Integrity": "b5sBVhis/WwPRxBuOftg8VcJiHehPuN+KEMMQU60LfE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\projects\\web_test_vercel\\ProjWASM\\obj\\Release\\net9.0\\webcil\\ProjWASM.wasm"
@@ -5540,12 +5540,12 @@
       "OriginalItemSpec": "C:\\projects\\web_test_vercel\\ProjWASM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\projects\\web_test_vercel\\ProjWASM\\obj\\Release\\net9.0\\compressed\\6kd06sod3k-wx47j8exkd.gz",
+      "Identity": "C:\\projects\\web_test_vercel\\ProjWASM\\obj\\Release\\net9.0\\compressed\\6kd06sod3k-7un3cdaacw.gz",
       "SourceId": "ProjWASM",
       "SourceType": "Computed",
       "ContentRoot": "C:\\projects\\web_test_vercel\\ProjWASM\\obj\\Release\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/ProjWASM#[.{fingerprint=wx47j8exkd}]!.wasm.gz",
+      "RelativePath": "_framework/ProjWASM#[.{fingerprint=7un3cdaacw}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5554,8 +5554,8 @@
       "RelatedAsset": "C:\\projects\\web_test_vercel\\ProjWASM\\bin\\Release\\net9.0\\wwwroot\\_framework\\ProjWASM.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "3a3xgl40m1",
-      "Integrity": "21JXIaWRLwlNxguHJxeYbenL0l4FD5VQBlb5k0g6cPg=",
+      "Fingerprint": "s6jj7uoexr",
+      "Integrity": "5IaehfyKPHsX94XSaJlRZ6KviZlPl/zctITtPldKbmA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\projects\\web_test_vercel\\ProjWASM\\bin\\Release\\net9.0\\wwwroot\\_framework\\ProjWASM.wasm"
@@ -7829,7 +7829,7 @@
       "OriginalItemSpec": "C:\\projects\\web_test_vercel\\ProjWASM\\bin\\Release\\net9.0\\wwwroot\\_framework\\System.Reflection.TypeExtensions.wasm"
     },
     {
-      "Identity": "C:\\projects\\web_test_vercel\\ProjWASM\\obj\\Release\\net9.0\\compressed\\lk86fu1plj-z57t6t4t2c.gz",
+      "Identity": "C:\\projects\\web_test_vercel\\ProjWASM\\obj\\Release\\net9.0\\compressed\\lk86fu1plj-qktv351mer.gz",
       "SourceId": "ProjWASM",
       "SourceType": "Computed",
       "ContentRoot": "C:\\projects\\web_test_vercel\\ProjWASM\\obj\\Release\\net9.0\\compressed\\",
@@ -7843,8 +7843,8 @@
       "RelatedAsset": "C:\\projects\\web_test_vercel\\ProjWASM\\bin\\Release\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "c4ct41r38n",
-      "Integrity": "ZIXkd5sCwWmp5wxnukF+I/pgcHlbfKN2JVtYLBuD/e8=",
+      "Fingerprint": "z0buqyd65e",
+      "Integrity": "UwUw0kJz8IQYG6VG1wBaIlRe9w3vAkpYQQbqPFl+QvE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\projects\\web_test_vercel\\ProjWASM\\bin\\Release\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -8963,12 +8963,12 @@
       "OriginalItemSpec": "C:\\projects\\web_test_vercel\\ProjWASM\\bin\\Release\\net9.0\\wwwroot\\_framework\\System.Runtime.InteropServices.RuntimeInformation.wasm"
     },
     {
-      "Identity": "C:\\projects\\web_test_vercel\\ProjWASM\\obj\\Release\\net9.0\\compressed\\ufg81u7nsy-b9on8j6qj1.gz",
+      "Identity": "C:\\projects\\web_test_vercel\\ProjWASM\\obj\\Release\\net9.0\\compressed\\ufg81u7nsy-u2nj1jni2f.gz",
       "SourceId": "ProjWASM",
       "SourceType": "Computed",
       "ContentRoot": "C:\\projects\\web_test_vercel\\ProjWASM\\obj\\Release\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/ProjWASM#[.{fingerprint=b9on8j6qj1}]!.pdb.gz",
+      "RelativePath": "_framework/ProjWASM#[.{fingerprint=u2nj1jni2f}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8977,8 +8977,8 @@
       "RelatedAsset": "C:\\projects\\web_test_vercel\\ProjWASM\\bin\\Release\\net9.0\\wwwroot\\_framework\\ProjWASM.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "d9dwmglidl",
-      "Integrity": "3w6dwuHo4sGNA0x12/+okqTOLeffFnYYNuZaGVznigo=",
+      "Fingerprint": "ks4bo7jhhf",
+      "Integrity": "/A65Yth+oziV6w5UpH86zs4n5M9H/dQuSb9X8ASIQks=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\projects\\web_test_vercel\\ProjWASM\\bin\\Release\\net9.0\\wwwroot\\_framework\\ProjWASM.pdb"
@@ -10705,7 +10705,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"eVwBSsm0Hcfvpfl3tlbawE6Mp/jLhQvPkHRSQxjbil4=\""
+          "Value": "\"hrE0VGOqAEuu3AIg0oaJVwrPTSXUOMxbUMjNr0+dY+E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 11:07:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hrE0VGOqAEuu3AIg0oaJVwrPTSXUOMxbUMjNr0+dY+E="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/blazor.boot.json",
+      "AssetFile": "C:\\projects\\web_test_vercel\\ProjWASM\\obj\\Release\\net9.0\\compressed\\lk86fu1plj-qktv351mer.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000081208381"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12313"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UwUw0kJz8IQYG6VG1wBaIlRe9w3vAkpYQQbqPFl+QvE=\""
         },
         {
           "Name": "Last-Modified",
@@ -10714,45 +10753,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-eVwBSsm0Hcfvpfl3tlbawE6Mp/jLhQvPkHRSQxjbil4="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\projects\\web_test_vercel\\ProjWASM\\obj\\Release\\net9.0\\compressed\\lk86fu1plj-z57t6t4t2c.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000081201786"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12314"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ZIXkd5sCwWmp5wxnukF+I/pgcHlbfKN2JVtYLBuD/e8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 10:00:17 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -10768,19 +10768,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"eVwBSsm0Hcfvpfl3tlbawE6Mp/jLhQvPkHRSQxjbil4=\""
+          "Value": "W/\"hrE0VGOqAEuu3AIg0oaJVwrPTSXUOMxbUMjNr0+dY+E=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-eVwBSsm0Hcfvpfl3tlbawE6Mp/jLhQvPkHRSQxjbil4="
+          "Value": "sha256-hrE0VGOqAEuu3AIg0oaJVwrPTSXUOMxbUMjNr0+dY+E="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\projects\\web_test_vercel\\ProjWASM\\obj\\Release\\net9.0\\compressed\\lk86fu1plj-z57t6t4t2c.gz",
+      "AssetFile": "C:\\projects\\web_test_vercel\\ProjWASM\\obj\\Release\\net9.0\\compressed\\lk86fu1plj-qktv351mer.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10789,7 +10789,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12314"
+          "Value": "12313"
         },
         {
           "Name": "Content-Type",
@@ -10797,11 +10797,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZIXkd5sCwWmp5wxnukF+I/pgcHlbfKN2JVtYLBuD/e8=\""
+          "Value": "\"UwUw0kJz8IQYG6VG1wBaIlRe9w3vAkpYQQbqPFl+QvE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 10:00:17 GMT"
+          "Value": "Tue, 01 Apr 2025 10:55:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10819,7 +10819,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ZIXkd5sCwWmp5wxnukF+I/pgcHlbfKN2JVtYLBuD/e8="
+          "Value": "sha256-UwUw0kJz8IQYG6VG1wBaIlRe9w3vAkpYQQbqPFl+QvE="
         }
       ]
     },
@@ -22285,305 +22285,7 @@
       ]
     },
     {
-      "Route": "_framework/ProjWASM.b9on8j6qj1.pdb",
-      "AssetFile": "C:\\projects\\web_test_vercel\\ProjWASM\\bin\\Release\\net9.0\\wwwroot\\_framework\\ProjWASM.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "23844"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"cRE0yY/qHM/AoFunyZd14ZcGsG661vq1gbiBwZLKQgU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 10:55:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "b9on8j6qj1"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/ProjWASM.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-cRE0yY/qHM/AoFunyZd14ZcGsG661vq1gbiBwZLKQgU="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ProjWASM.b9on8j6qj1.pdb",
-      "AssetFile": "C:\\projects\\web_test_vercel\\ProjWASM\\obj\\Release\\net9.0\\compressed\\ufg81u7nsy-b9on8j6qj1.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000057471264"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "17399"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3w6dwuHo4sGNA0x12/+okqTOLeffFnYYNuZaGVznigo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 10:55:22 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"cRE0yY/qHM/AoFunyZd14ZcGsG661vq1gbiBwZLKQgU=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "b9on8j6qj1"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/ProjWASM.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-cRE0yY/qHM/AoFunyZd14ZcGsG661vq1gbiBwZLKQgU="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ProjWASM.b9on8j6qj1.pdb.gz",
-      "AssetFile": "C:\\projects\\web_test_vercel\\ProjWASM\\obj\\Release\\net9.0\\compressed\\ufg81u7nsy-b9on8j6qj1.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "17399"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3w6dwuHo4sGNA0x12/+okqTOLeffFnYYNuZaGVznigo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 10:55:22 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "b9on8j6qj1"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/ProjWASM.pdb.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-3w6dwuHo4sGNA0x12/+okqTOLeffFnYYNuZaGVznigo="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ProjWASM.pdb",
-      "AssetFile": "C:\\projects\\web_test_vercel\\ProjWASM\\bin\\Release\\net9.0\\wwwroot\\_framework\\ProjWASM.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "23844"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"cRE0yY/qHM/AoFunyZd14ZcGsG661vq1gbiBwZLKQgU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 10:55:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-cRE0yY/qHM/AoFunyZd14ZcGsG661vq1gbiBwZLKQgU="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ProjWASM.pdb",
-      "AssetFile": "C:\\projects\\web_test_vercel\\ProjWASM\\obj\\Release\\net9.0\\compressed\\ufg81u7nsy-b9on8j6qj1.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000057471264"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "17399"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3w6dwuHo4sGNA0x12/+okqTOLeffFnYYNuZaGVznigo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 10:55:22 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"cRE0yY/qHM/AoFunyZd14ZcGsG661vq1gbiBwZLKQgU=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-cRE0yY/qHM/AoFunyZd14ZcGsG661vq1gbiBwZLKQgU="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ProjWASM.pdb.gz",
-      "AssetFile": "C:\\projects\\web_test_vercel\\ProjWASM\\obj\\Release\\net9.0\\compressed\\ufg81u7nsy-b9on8j6qj1.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "17399"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3w6dwuHo4sGNA0x12/+okqTOLeffFnYYNuZaGVznigo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 10:55:22 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-3w6dwuHo4sGNA0x12/+okqTOLeffFnYYNuZaGVznigo="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ProjWASM.wasm",
+      "Route": "_framework/ProjWASM.7un3cdaacw.wasm",
       "AssetFile": "C:\\projects\\web_test_vercel\\ProjWASM\\bin\\Release\\net9.0\\wwwroot\\_framework\\ProjWASM.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -22601,148 +22303,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"PLjt1Hfgd9v+JO4kLPL6IVjkBjTLVuRph6ZPH5LdqF8=\""
+          "Value": "\"b5sBVhis/WwPRxBuOftg8VcJiHehPuN+KEMMQU60LfE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 10:55:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-PLjt1Hfgd9v+JO4kLPL6IVjkBjTLVuRph6ZPH5LdqF8="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ProjWASM.wasm",
-      "AssetFile": "C:\\projects\\web_test_vercel\\ProjWASM\\obj\\Release\\net9.0\\compressed\\6kd06sod3k-wx47j8exkd.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000131682908"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "7593"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"21JXIaWRLwlNxguHJxeYbenL0l4FD5VQBlb5k0g6cPg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 10:55:22 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"PLjt1Hfgd9v+JO4kLPL6IVjkBjTLVuRph6ZPH5LdqF8=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-PLjt1Hfgd9v+JO4kLPL6IVjkBjTLVuRph6ZPH5LdqF8="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ProjWASM.wasm.gz",
-      "AssetFile": "C:\\projects\\web_test_vercel\\ProjWASM\\obj\\Release\\net9.0\\compressed\\6kd06sod3k-wx47j8exkd.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "7593"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"21JXIaWRLwlNxguHJxeYbenL0l4FD5VQBlb5k0g6cPg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 10:55:22 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-21JXIaWRLwlNxguHJxeYbenL0l4FD5VQBlb5k0g6cPg="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ProjWASM.wx47j8exkd.wasm",
-      "AssetFile": "C:\\projects\\web_test_vercel\\ProjWASM\\bin\\Release\\net9.0\\wwwroot\\_framework\\ProjWASM.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "17173"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PLjt1Hfgd9v+JO4kLPL6IVjkBjTLVuRph6ZPH5LdqF8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 10:55:21 GMT"
+          "Value": "Tue, 01 Apr 2025 11:07:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22752,7 +22317,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "wx47j8exkd"
+          "Value": "7un3cdaacw"
         },
         {
           "Name": "label",
@@ -22760,18 +22325,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-PLjt1Hfgd9v+JO4kLPL6IVjkBjTLVuRph6ZPH5LdqF8="
+          "Value": "sha256-b5sBVhis/WwPRxBuOftg8VcJiHehPuN+KEMMQU60LfE="
         }
       ]
     },
     {
-      "Route": "_framework/ProjWASM.wx47j8exkd.wasm",
-      "AssetFile": "C:\\projects\\web_test_vercel\\ProjWASM\\obj\\Release\\net9.0\\compressed\\6kd06sod3k-wx47j8exkd.gz",
+      "Route": "_framework/ProjWASM.7un3cdaacw.wasm",
+      "AssetFile": "C:\\projects\\web_test_vercel\\ProjWASM\\obj\\Release\\net9.0\\compressed\\6kd06sod3k-7un3cdaacw.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000131682908"
+          "Quality": "0.000131734949"
         }
       ],
       "ResponseHeaders": [
@@ -22781,15 +22346,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7593"
+          "Value": "7590"
         },
         {
           "Name": "ETag",
-          "Value": "\"21JXIaWRLwlNxguHJxeYbenL0l4FD5VQBlb5k0g6cPg=\""
+          "Value": "\"5IaehfyKPHsX94XSaJlRZ6KviZlPl/zctITtPldKbmA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 10:55:22 GMT"
+          "Value": "Tue, 01 Apr 2025 11:07:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22809,13 +22374,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"PLjt1Hfgd9v+JO4kLPL6IVjkBjTLVuRph6ZPH5LdqF8=\""
+          "Value": "W/\"b5sBVhis/WwPRxBuOftg8VcJiHehPuN+KEMMQU60LfE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "wx47j8exkd"
+          "Value": "7un3cdaacw"
         },
         {
           "Name": "label",
@@ -22823,13 +22388,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-PLjt1Hfgd9v+JO4kLPL6IVjkBjTLVuRph6ZPH5LdqF8="
+          "Value": "sha256-b5sBVhis/WwPRxBuOftg8VcJiHehPuN+KEMMQU60LfE="
         }
       ]
     },
     {
-      "Route": "_framework/ProjWASM.wx47j8exkd.wasm.gz",
-      "AssetFile": "C:\\projects\\web_test_vercel\\ProjWASM\\obj\\Release\\net9.0\\compressed\\6kd06sod3k-wx47j8exkd.gz",
+      "Route": "_framework/ProjWASM.7un3cdaacw.wasm.gz",
+      "AssetFile": "C:\\projects\\web_test_vercel\\ProjWASM\\obj\\Release\\net9.0\\compressed\\6kd06sod3k-7un3cdaacw.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22838,7 +22403,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7593"
+          "Value": "7590"
         },
         {
           "Name": "Content-Type",
@@ -22846,11 +22411,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"21JXIaWRLwlNxguHJxeYbenL0l4FD5VQBlb5k0g6cPg=\""
+          "Value": "\"5IaehfyKPHsX94XSaJlRZ6KviZlPl/zctITtPldKbmA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 10:55:22 GMT"
+          "Value": "Tue, 01 Apr 2025 11:07:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22868,7 +22433,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "wx47j8exkd"
+          "Value": "7un3cdaacw"
         },
         {
           "Name": "label",
@@ -22876,7 +22441,442 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-21JXIaWRLwlNxguHJxeYbenL0l4FD5VQBlb5k0g6cPg="
+          "Value": "sha256-5IaehfyKPHsX94XSaJlRZ6KviZlPl/zctITtPldKbmA="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ProjWASM.pdb",
+      "AssetFile": "C:\\projects\\web_test_vercel\\ProjWASM\\bin\\Release\\net9.0\\wwwroot\\_framework\\ProjWASM.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23844"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"akelBC+k1CWzgSQ5hxhBenKjlyctYemnGi9XebLf6tk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 11:07:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-akelBC+k1CWzgSQ5hxhBenKjlyctYemnGi9XebLf6tk="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ProjWASM.pdb",
+      "AssetFile": "C:\\projects\\web_test_vercel\\ProjWASM\\obj\\Release\\net9.0\\compressed\\ufg81u7nsy-u2nj1jni2f.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000057481175"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17396"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/A65Yth+oziV6w5UpH86zs4n5M9H/dQuSb9X8ASIQks=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 11:07:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"akelBC+k1CWzgSQ5hxhBenKjlyctYemnGi9XebLf6tk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-akelBC+k1CWzgSQ5hxhBenKjlyctYemnGi9XebLf6tk="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ProjWASM.pdb.gz",
+      "AssetFile": "C:\\projects\\web_test_vercel\\ProjWASM\\obj\\Release\\net9.0\\compressed\\ufg81u7nsy-u2nj1jni2f.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/A65Yth+oziV6w5UpH86zs4n5M9H/dQuSb9X8ASIQks=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 11:07:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/A65Yth+oziV6w5UpH86zs4n5M9H/dQuSb9X8ASIQks="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ProjWASM.u2nj1jni2f.pdb",
+      "AssetFile": "C:\\projects\\web_test_vercel\\ProjWASM\\bin\\Release\\net9.0\\wwwroot\\_framework\\ProjWASM.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23844"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"akelBC+k1CWzgSQ5hxhBenKjlyctYemnGi9XebLf6tk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 11:07:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u2nj1jni2f"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/ProjWASM.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-akelBC+k1CWzgSQ5hxhBenKjlyctYemnGi9XebLf6tk="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ProjWASM.u2nj1jni2f.pdb",
+      "AssetFile": "C:\\projects\\web_test_vercel\\ProjWASM\\obj\\Release\\net9.0\\compressed\\ufg81u7nsy-u2nj1jni2f.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000057481175"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17396"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/A65Yth+oziV6w5UpH86zs4n5M9H/dQuSb9X8ASIQks=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 11:07:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"akelBC+k1CWzgSQ5hxhBenKjlyctYemnGi9XebLf6tk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u2nj1jni2f"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/ProjWASM.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-akelBC+k1CWzgSQ5hxhBenKjlyctYemnGi9XebLf6tk="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ProjWASM.u2nj1jni2f.pdb.gz",
+      "AssetFile": "C:\\projects\\web_test_vercel\\ProjWASM\\obj\\Release\\net9.0\\compressed\\ufg81u7nsy-u2nj1jni2f.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/A65Yth+oziV6w5UpH86zs4n5M9H/dQuSb9X8ASIQks=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 11:07:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u2nj1jni2f"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/ProjWASM.pdb.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/A65Yth+oziV6w5UpH86zs4n5M9H/dQuSb9X8ASIQks="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ProjWASM.wasm",
+      "AssetFile": "C:\\projects\\web_test_vercel\\ProjWASM\\bin\\Release\\net9.0\\wwwroot\\_framework\\ProjWASM.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17173"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b5sBVhis/WwPRxBuOftg8VcJiHehPuN+KEMMQU60LfE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 11:07:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-b5sBVhis/WwPRxBuOftg8VcJiHehPuN+KEMMQU60LfE="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ProjWASM.wasm",
+      "AssetFile": "C:\\projects\\web_test_vercel\\ProjWASM\\obj\\Release\\net9.0\\compressed\\6kd06sod3k-7un3cdaacw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000131734949"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7590"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5IaehfyKPHsX94XSaJlRZ6KviZlPl/zctITtPldKbmA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 11:07:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"b5sBVhis/WwPRxBuOftg8VcJiHehPuN+KEMMQU60LfE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-b5sBVhis/WwPRxBuOftg8VcJiHehPuN+KEMMQU60LfE="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ProjWASM.wasm.gz",
+      "AssetFile": "C:\\projects\\web_test_vercel\\ProjWASM\\obj\\Release\\net9.0\\compressed\\6kd06sod3k-7un3cdaacw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7590"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5IaehfyKPHsX94XSaJlRZ6KviZlPl/zctITtPldKbmA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 01 Apr 2025 11:07:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5IaehfyKPHsX94XSaJlRZ6KviZlPl/zctITtPldKbmA="
         }
       ]
     },
