@@ -2,8 +2,12 @@
   "version": 2,
   "headers": [
     {
-      "source": "/_framework/(.*)",
+      "source": "/_framework/(.*\\.wasm)",
       "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/wasm"
+        },
         {
           "key": "Cache-Control",
           "value": "public, max-age=31536000, immutable"
@@ -11,26 +15,24 @@
       ]
     },
     {
-      "source": "/_framework/(.*).wasm",
+      "source": "/_framework/(.*\\.js)",
       "headers": [
         {
-          "key": "Content-Type",
-          "value": "application/wasm"
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
         }
       ]
     }
   ],
-  "routes": [
+  "rewrites": [
     {
-      "src": "/_framework/(.*)",
-      "dest": "/_framework/$1",
-      "headers": {
-        "Cache-Control": "public, max-age=31536000, immutable"
-      }
+      "source": "/_framework/:path*",
+      "destination": "/_framework/:path*"
     },
     {
-      "src": "/(.*)",
-      "dest": "/index.html"
+      "source": "/:path*",
+      "destination": "/index.html"
     }
-  ]
+  ],
+  "cleanUrls": true
 }
